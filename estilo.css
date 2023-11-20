@@ -9,7 +9,10 @@ h1{
     color: bisque;
 }
 
-
 p{
     text-align:center;
+}
+
+#dados{
+    color: rgb(214, 209, 240);
 }
