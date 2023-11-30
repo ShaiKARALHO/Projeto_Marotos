@@ -20,6 +20,10 @@ h1{
     text-align:left;
 }
 
-#img_lista{
+#img_e_lista{
     display: flex;
+}
+
+#img_ficha{
+    width: 50%;
 }
