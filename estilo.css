@@ -17,5 +17,9 @@ h1{
 }
 
 #lista{
-    text-align:left
+    text-align:left;
+}
+
+#img_lista{
+    display: inline-block;
 }
